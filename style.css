@@ -2,6 +2,12 @@ html,
 body {
   position: relative;
   height: 100%;
+  font-family: 'Comic Neue', cursive;
+font-family: 'Roboto', sans-serif;
+}
+.color{
+  background-color: #FB923C!important;
+  /* background-color: #62609F!important; */
 }
 
 body {
@@ -37,6 +43,7 @@ swiper-slide img {
 .h-auto {
   height: 483px!important;
 } 
-/* .h-auto {
-  height: 483px!important;
-} */ */
+.image {
+  max-width: 120%;
+  height: 100%;
+}
