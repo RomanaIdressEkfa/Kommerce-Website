@@ -33,3 +33,10 @@ swiper-slide img {
   height: 100%;
   object-fit: cover;
 }
+ /* img */
+.h-auto {
+  height: 483px!important;
+} 
+/* .h-auto {
+  height: 483px!important;
+} */ */
